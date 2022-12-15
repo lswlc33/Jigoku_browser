@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="img">
+    <file>res/logo.png</file>
+    <file>res/logo.ico</file>
+    <file>res/→.png</file>
+    <file>res/←.png</file>
+    <file>res/F.png</file>
+    <file>res/FA.png</file>
+    <file>res/FI.png</file>
+    <file>res/S.png</file>
+    <file>res/X.png</file>
+  </qresource>
+</RCC>
