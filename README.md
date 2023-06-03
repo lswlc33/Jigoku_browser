@@ -13,7 +13,8 @@
 
 ## 截图
 ![屏幕截图 2023-06-03 141906](https://github.com/lswlc33/Jigoku_browser/assets/86835895/0e548944-61f6-4d85-b218-ed37de6b7e6d)
-![屏幕截图 2023-06-03 141906](https://github.com/lswlc33/Jigoku_browser/assets/86835895/c1604b8f-c7be-4136-8844-efaa9d92423d)
+
+![屏幕截图 2023-06-03 141846](https://github.com/lswlc33/Jigoku_browser/assets/86835895/1290d0cc-7ae4-4f6e-b173-db9b9edb319f)
 
 ## 提示
 不想改系统时间可以直接点右上角的`勿点`按钮，能直接打开
